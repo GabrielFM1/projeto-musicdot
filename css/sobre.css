@@ -28,3 +28,16 @@ figure{
 figcaption{
     margin-top: 10px;
 }
+
+#figuramatrix{
+    width: 550px;
+    margin: auto;
+}
+#figurafamilia{
+    width: 375px;
+    float: right;
+}
+figure img{
+    height: inherit;
+    width: inherit;
+}
